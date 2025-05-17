@@ -5,7 +5,7 @@ The player must repeat an increasingly long sequence of button presses.
 
 ## Live Demo
 
-[Play the Game Here]
+(https://rahul092002.github.io/SimonGame/)
 
 ## Features
 
